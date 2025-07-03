@@ -22,4 +22,5 @@ modules:
   - "https://github.com/adelinerd/modul_mockups/blob/main/Smart-City-Platform/modules/environmental-monitoring.yml"
 
 development_status: "Stable"
+app_type: "Native App"
 last_update: "2025-06-27"
