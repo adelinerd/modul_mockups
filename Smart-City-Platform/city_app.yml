@@ -15,6 +15,19 @@ deployed_in_municipalities:
   - "Dresden"
   - "Freiburg"
 
+license:
+  name: "GNU GENERAL PUBLIC LICENSE, Version 3"
+  url: "https://gitlab.opencode.de/bad-belzig/smart-village-app/-/blob/master/LICENSE.md"
+
+logo:
+  url: "https://github.com/adelinerd/modul_mockups/blob/main/Smart-City-Platform/modules/images/logo.png?raw=true"
+  description: "Logo der Smart Village App"
+
+screenshots:
+  - url: "https://github.com/adelinerd/modul_mockups/blob/main/Smart-City-Platform/modules/images/screenshot.png?raw=true"
+    description: "Screenshot"
+  
+
 opencode_repository: "https://github.com/urbantechsolutions/smart-city-platform"
 documentation: "https://docs.urbantechsolutions.de/smart-city-platform"
 
@@ -24,5 +37,5 @@ modules:
 
 development_status: "Stable"
 
-last_update: "2025-06-27"
-city-app-yml-version: "1.0"
+last_update: "2025-08-25"
+city-app-yml-version: "1.1"
